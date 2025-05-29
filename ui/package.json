@@ -30,7 +30,7 @@
     "@ngx-translate/core": "16.0.3",
     "@popperjs/core": "2.11.8",
     "angular-gridster2": "19.0.0",
-    "bootstrap": "4.6.2",
+    "bootstrap": "5.0.0",
     "chart.js": "4.4.7",
     "dayjs": "1.11.13",
     "emoji-js": "3.8.0",
@@ -61,7 +61,7 @@
     "zone.js": "0.14.10"
   },
   "devDependencies": {
-    "@angular/build": "^18.2.12",
+    "@angular/build": "^20.0.0",
     "@angular/cli": "^18.2.12",
     "@angular/compiler-cli": "^18.2.13",
     "@angular/language-service": "^18.2.13",
